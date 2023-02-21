@@ -2,6 +2,7 @@
 
 ## Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)
 - https://suzyalrahala.tistory.com/37
+- https://suzyalrahala.tistory.com/36
 
 ## 스프링 부트 전환 - 리스크 최소화 작업 
 - https://brunch.co.kr/@springboot/91
