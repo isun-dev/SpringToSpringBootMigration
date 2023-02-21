@@ -9,3 +9,6 @@
 
 ## Java 기반으로 Spring 설정 변경하기 from xml to java config
 - https://yermi.tistory.com/entry/Spring-Java-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-Spring-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B01-xml-%EA%B8%B0%EB%B0%98%EC%97%90%EC%84%9C-Java-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
+
+# Maven 기초 사용법
+- https://javacan.tistory.com/entry/MavenBasic
