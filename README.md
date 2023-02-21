@@ -24,3 +24,6 @@
 
 ## classpath: 와 classpath*: 의 차이점
 - https://enspring.tistory.com/601
+
+## Spring Property 설정
+- https://developyo.tistory.com/57
