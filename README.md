@@ -21,3 +21,6 @@
 
 ## 자바 클래스패스
 - https://vvshinevv.tistory.com/70
+
+## classpath: 와 classpath*: 의 차이점
+- https://enspring.tistory.com/601
