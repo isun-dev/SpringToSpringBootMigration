@@ -28,5 +28,8 @@
 ## Spring Property 설정
 - https://developyo.tistory.com/57
 
-# 마이그레이션 중국어 자료
+## 마이그레이션 중국어 자료
 - https://blog.csdn.net/JavaShark/article/details/125597101
+
+## Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)
+- https://ehdvudee.tistory.com/48
