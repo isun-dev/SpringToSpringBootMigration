@@ -33,3 +33,6 @@
 
 ## Spring-Legacy to Spring-Boot 마이그레이션(Feat. 외장/내장-Tomcat/JSP/Multiple-Datasource(With-JNDI)/External-Lib)
 - https://ehdvudee.tistory.com/48
+
+## [네이버] 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기
+- https://d2.naver.com/helloworld/5626759
