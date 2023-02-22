@@ -4,7 +4,8 @@
 1. From Spring to SpringBoot
 2. From XML to Java Config
 3. From Maven to Gradle
-4. 최종확인??
+4. From SpringBoot 1.0.X to SpringBoot 2.0.X
+5. 최종확인??
 
 ## Spring boot로 migration하기 전 고려해볼 것들?(+스프링부트 개념정리)
 - https://suzyalrahala.tistory.com/37
