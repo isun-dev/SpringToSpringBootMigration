@@ -27,3 +27,6 @@
 
 ## Spring Property 설정
 - https://developyo.tistory.com/57
+
+# 마이그레이션 중국어 자료
+- https://blog.csdn.net/JavaShark/article/details/125597101
